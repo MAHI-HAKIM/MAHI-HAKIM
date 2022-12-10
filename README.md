@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MAHI-HAKIM
-- 👀 I’m interested in Desginig websites anf graphics
+- 👀 I’m interested on website design and graphics
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on Linkdin
+- 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me silver_shad3 on Instagram
 
 <!---
