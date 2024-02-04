@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Currently improving and learning the wide tech world.
 
 * 🌍  I'm based in Turkey: Sakarya
-* 🖥️  See my portfolio at[http://b201210605-mahi.lovestoblog.com](http://b201210605-mahi.lovestoblog.com/)
+* 🖥️  See my portfolio at[http://b201210605-mahi.lovestoblog.com](https://b201210605.pages.dev/)
 * ✉️  You can contact me at [mahiabdul20@gmail.com](mailto:mahiabdul20@gmail.com)
 * 🧠  I'm learning SQL and Javascript
 
