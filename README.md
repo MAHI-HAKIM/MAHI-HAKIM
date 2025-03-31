@@ -7,7 +7,6 @@ Computer Engineering student
 Currently improving and learning the wide tech world.
 
 * 🌍  I'm based in Turkey: Sakarya
-* 🖥️  See my portfolio at [http://MahiHakim.tech](https://b201210605.pages.dev/)
 * ✉️  You can contact me at [mahiabdul20@gmail.com](mailto:mahiabdul20@gmail.com)
 * 🧠  I'm learning SQL and Javascript
 
