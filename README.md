@@ -1,86 +1,17 @@
-  <h1 align="center">Hi , I'm Mahi Hakim<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS | AI | ML Enthusiast;Graphic Designer;Always learning new things&amp;center=true&amp;width=500&amp;height=50"></a>
-</p>
+  <div align="center">
+<h2 id="about">About</h2>
+<p>Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.</p>
 <hr>
-<h4 align="center">I am a Software Engineer at KitCenter. I like to Code, Design, Build out of the world UI/UX web designs, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&amp;label=Profile views&amp;color=0e75b6&amp;style=plastic" alt="candida18"> </p>
-<h2 id="-streak-stats">🔥 Streak Stats</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&amp;theme=algolia" alt="candida18"></p>
-<h2 id="️-my-skills">🛠️ My Skills</h2>
-<h3 id="-programming-languages">👉 Programming languages</h3>
-<p align="left"> 
-    
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C -#2370ED.svg?logo=c&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++ -#00599C.svg?logo=c++&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript -#F7DF1E.svg?logo=javascript&amp;logoColor=black">
-   </a>
-   
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-#007396.svg?logo=java&amp;logoColor=white">
-  </a>
-   
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python -#14354C.svg?logo=python&amp;logoColor=white">
-  </a>
-   
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-#777BB4.svg?logo=php&amp;logoColor=white">
-  </a>
-</p>
-<h3 id="-frontend-development">👉 Frontend Development</h3>
-<p align="left"> 
-    
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5 -#E34F26.svg?logo=html5&amp;logoColor=white">
-  </a>   
-   
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS -#1572B6.svg?logo=css3&amp;logoColor=white">
-  </a> 
-    
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-#563D7C.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white">
-  </a>
-</p>
-<h3 id="-databases--cloud-hosting">👉 Databases &amp; Cloud Hosting</h3>
-<p align="left">
-   
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-#00f.svg?style=flat&amp;llogo=mysql&amp;logoColor=white"></a>
-   
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-#07405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white"></a>
-   
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-#327FC7.svg?style=flat&amp;llogo=github&amp;logoColor=white"></a>
-   
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku -#430098.svg?logo=heroku&amp;logoColor=white"></a>  
-   
-    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-#316192.svg?logo=firebase&amp;logoColor=white"></a>
- </p>
-<h3 id="graphic-designing">👉Graphic Designing</h3>
-<p align="left">
-   
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-#FF9A00.svg?style=flat&amp;logo=adobeillustrator&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-�49a0.svg?style=flat&amp;logo=adobeindesign&amp;logoColor=white"> 
-  </a> 
-     
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-#00f.svg?style=flat&amp;logo=adobelightroom&amp;logoColor=white">
-  </a>
-    
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-#00f.svg?style=flat&amp;logo=adobepremierepro&amp;logoColor=white">
-  </a>
-     
-  <a href="
+<h2 id="contact">Contact</h2>
+<p><a href="https://www.instagram.com/LachlanDev/"><img src="https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/LachlanDev"><img src="https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a> <a href="https://discord.com/invite/w7B5nKB"><img src="https://img.shields.io/discord/587842272167723028?label=Discord%20Server&amp;logo=Discord&amp;colorB=5865F2&amp;style=for-the-badge&amp;logoColor=white" alt="DiscordServer">
+</a> <img src="https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></p>
+<hr>
+<h3 id="languages-and-tools">Languages and Tools</h3>
+<p><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js"> <img src="https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&amp;logo=Discord&amp;logoColor=Blue" alt="DiscordJS"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Portainer-%230072C6.svg?style=for-the-badge&amp;logo=Portainer&amp;logoColor=white" alt="Portainer"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&amp;logo=digitalOcean&amp;logoColor=white" alt="DigitalOcean"> <img src="https://img.shields.io/badge/vultr-%23039BE5.svg?style=for-the-badge&amp;logo=vultr" alt="Vult"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&amp;logo=visual-studio&amp;logoColor=white" alt="Visual Studio"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"></p>
+<hr>
+<p><img src="https://github-readme-stats.vercel.app/api?username=LachlanDev&amp;show_icons=true&amp;theme=radical&amp;count_private=true&amp;include_all_commits=true" alt="LachlanDev github stats"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" alt="LachlanDev github streak"></p>
+ <div>
+<hr>
+<p>Credits: <a href="https://github.com/LachlanDev">LachlanDev</a></p>
+<p>Last Edited on: 1/10/2021</p></div></div> 
