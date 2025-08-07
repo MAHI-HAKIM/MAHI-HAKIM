@@ -35,7 +35,7 @@ I'm a **Results-driven Full-Stack Software Engineer** with **2.5+ years** of exp
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahi-hakim/mahi-hakim/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mahi-hakim/mahi-hakim/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
