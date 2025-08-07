@@ -96,16 +96,14 @@ I'm a **Results-driven Full-Stack Software Engineer** with **2.5+ years** of exp
 
 ## 💡 What I'm Currently Working On
 
-- 🔭 Building scalable blockchain applications
+- 🔭 Building scalable Full stack web applications
 - 🌱 Learning advanced DevOps practices
 - 👯 Looking to collaborate on innovative full-stack projects
 - 💬 Ask me about React, Node.js, and blockchain development
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahi-hakim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+
 
 ---
 
