@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahi Hakmi
+# Hi 👋, I'm Mahi Hakim
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Next.js+%26+TypeScript+Specialist;Building+Products+That+Matter;Open+to+Work+in+DMV+%26+Remote&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
@@ -96,7 +96,7 @@ in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MAHI-HAKIM&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mahi-hakim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
