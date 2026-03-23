@@ -5,6 +5,7 @@
 </div>
 
 ---
+<div align="center">
 
 ## 🚀 About Me
 
@@ -14,6 +15,8 @@ end-to-end web applications that are fast, scalable, and actually solve problems
 
 Currently a Software Engineer at **KitCenter**, open to new opportunities  
 in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
+
+</div>
 
 ---
 
