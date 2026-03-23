@@ -1,4 +1,7 @@
+<div align="center">
 # Hi 👋, I'm Mahi Hakim
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Engineer;Next.js+%26+TypeScript+Specialist;Building+Products+That+Matter;Open+to+Work+in+DMV+%26+Remote&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
