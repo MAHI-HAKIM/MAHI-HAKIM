@@ -93,14 +93,6 @@ in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahi-hakim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💡 Currently Working On
 
 - 🔭 **Siteflow** — scaling the construction ERP platform
