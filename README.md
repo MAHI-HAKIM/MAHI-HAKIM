@@ -48,7 +48,7 @@ in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🏗️ **Siteflow** | Complete ERP construction management suite with AI analytics, real-time tracking & role-based access | Next.js, TypeScript, PostgreSQL, AWS S3 | [Live Demo](https://mahihakim.dev) |
+| 🏗️ **Siteflow** | Complete ERP construction management suite with AI analytics, real-time tracking & role-based access | Next.js, TypeScript, PostgreSQL, AWS S3 | [Live Demo](https://siteflow-v1.vercel.app) |
 | 🔒 **Cloud Hardening Platform** | Automated cloud security platform reducing vulnerabilities by 85% across AWS, Azure & DigitalOcean | Node.js, Ansible, Docker, AWS SDK | [GitHub](https://github.com/MAHI-HAKIM/Cloud_Hardening_Platform) |
 | 💬 **Real-Time Support System** | WebSocket chat system handling 500+ weekly interactions with 60% faster response time | Next.js, WebSocket, Redis, MongoDB | KitCenter |
 
