@@ -20,7 +20,7 @@ in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahihakim" target="_blank">
+  <a href="https://www.linkedin.com/in/mahi-mohammed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mahiabdul20@gmail.com">
