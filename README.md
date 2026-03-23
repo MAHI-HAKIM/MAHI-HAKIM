@@ -100,7 +100,6 @@ in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
 
 ---
 
-<div align="center">
 
 ## 💡 Currently Working On
 
@@ -110,7 +109,6 @@ in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
 - 🤝 Open to collaborating on **Full-Stack** and **AI-integrated** projects
 - 💬 Ask me about **Next.js, TypeScript, PostgreSQL, or system design**
 
-</div>
 ---
 
 <div align="center">
