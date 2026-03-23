@@ -96,6 +96,7 @@ in **Full-Stack**, **Frontend**, and **AI-integrated** web development roles.
 ## 💡 Currently Working On
 
 - 🔭 **Siteflow** — scaling the construction ERP platform
+- 🚎 **Nitike** — building fully composed bus ticketing platform
 - 🌱 **AI Integration** — adding LLM-powered features to web apps
 - 🤝 Open to collaborating on **Full-Stack** and **AI-integrated** projects
 - 💬 Ask me about **Next.js, TypeScript, PostgreSQL, or system design**
